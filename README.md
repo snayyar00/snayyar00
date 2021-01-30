@@ -23,8 +23,14 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 </br>
 
 📊 **This Week I Spent My Time On:**
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=snayyar00)](https://github.com/anuraghazra/github-readme-stats)
-
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+Javascript   40 hrs 58 mins  ████████████████▓░░░░░░░░   67.15 % 
+XML          2 hrs 56 mins   █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+NodeJS       1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+```
+<!--END_SECTION:waka-->
 
 📈 **My GitHub Stats:**
 
