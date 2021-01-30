@@ -15,11 +15,10 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- 👨🏻‍💻 I’m currently working as Full Stack Software Developer at Remitbee;
+- 🚀 I’m currently studying at Simon Fraser University ;
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- 📫 How to reach me: gapur.kassym@gmail.com;
+- 📫 How to reach me: sidharth15nayyar@gmail.com;
 
 </br>
 
@@ -39,5 +38,5 @@ Markdown     18 mins         ▓░░░░░░░░░░░░░░░░
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snayyar00&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snayyar00&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+ 
 </p>
