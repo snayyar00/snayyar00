@@ -15,8 +15,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working as Full Stack Software Developer at Remitbee;
-- 🚀 I’m currently studying at Simon Fraser University ;
+- 👨🏻‍💻 I’m currently working as Full Stack Software Developer at Blaise Transit;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: sidharth15nayyar@gmail.com;
 </br>
