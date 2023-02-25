@@ -14,7 +14,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
   
 
 **Talking about Personal Stuffs:**
-- 👨 My current projects - Make-cv.com, <a src='https://adley.ai/'>Adley.ai</a>
+- 👨 My current projects - <a href="https://make-cv.com/" target="_blank" >Make-cv</a> , <a href="https://adley.ai/" target="_blank" >Adley.ai</a>
 
 - 👨🏻‍💻 I’m currently working as Full Stack Software Developer at Blaise Transit;
 - 💬 Ask me about anything, I am happy to help;
