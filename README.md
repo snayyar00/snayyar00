@@ -22,9 +22,3 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 </br>
 </br>
 
-📈 **My GitHub Stats:**
-</br>
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snayyar00&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
- 
-</p>
