@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=snayyar00.snayyar00)
 
-I am a full-stack software developer and student. I love programming, sports and traveling.
+I am a full-stack software developer . I love programming, sports and traveling.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 </br>
