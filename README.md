@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://itissid.com/)
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=snayyar00.snayyar00)
+### Glad to see you here! &nbsp;
 
 I am a full-stack software developer . I love programming, sports and traveling.
 
@@ -16,8 +16,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 **Talking about Personal Stuffs:**
 - 👨 My current projects - <a href="https://make-cv.com/" target="_blank" >Make-cv</a> , <a href="https://webability.io/" target="_blank" >WebAbility.io</a> ,  <a href="https://yoursearchbox.com" target="_blank" >YourSearchBox.com</a>
 
-- 👨🏻‍💻 I’m currently working as Full Stack Software Developer at ICAO;
-- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: sidharth15nayyar@gmail.com;
 </br>
 </br>
