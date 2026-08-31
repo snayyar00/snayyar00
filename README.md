@@ -1,22 +1,32 @@
-### Hi there, I'm <a href="http://itissid.com/" target="_blank">Sidharth Nayyar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Sidharth Nayyar
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/sidharth-nayyar-a13515171)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://itissid.com/)
+Forward deployed engineer. I work with customers directly and ship the production code that gets them live.
 
+**Now** — building [WebAbility.io](https://webability.io), an accessibility platform: an AI widget, a scanning engine, and agents for WCAG 2.2 / ADA / Section 508 / EAA. It runs on **1,697 live sites** for **758 customers**, inside codebases I do not control.
 
-### Glad to see you here! &nbsp;
+**Before** — Principal Forward Deployed Engineer at Ares, a legal-AI product built on Claude. I was in the room with **25 law firms**, scoping the ask and shipping it that week. Live case volume grew from 128 to ~1,200 over the contract while I owned the agent loop, the evaluation harness, and per-case cost controls.
 
-I am a full-stack software developer . I love programming, sports and traveling.
+### Things you can actually run
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
-</br>
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
-  
+**[@webability/mcp](https://www.npmjs.com/package/@webability/mcp)** — a hosted MCP server, 15 tools, for Cursor / Claude Code / Copilot. Scan a URL or HTML, get framework-aware fixes, verify they landed.
+Live on Smithery: **[smithery.ai/servers/webability/accessibility](https://smithery.ai/servers/webability/accessibility)**
 
-**Talking about Personal Stuffs:**
-- 👨 My current projects - <a href="https://make-cv.com/" target="_blank" >Make-cv</a> , <a href="https://webability.io/" target="_blank" >WebAbility.io</a> ,  <a href="https://yoursearchbox.com" target="_blank" >YourSearchBox.com</a>
+```bash
+npx @webability/mcp
+```
 
-- 📫 How to reach me: sidharth15nayyar@gmail.com;
-</br>
-</br>
+The rest of the developer surface, all published:
 
+| Package | What it does |
+|---|---|
+| [`@webability/cli`](https://www.npmjs.com/package/@webability/cli) | Scan and fix from the terminal or CI |
+| [`@webability/core`](https://www.npmjs.com/package/@webability/core) | The detection engine |
+| [`@webability/eslint-plugin`](https://www.npmjs.com/package/@webability/eslint-plugin) | Catch issues at lint time |
+| [`@webability/playwright`](https://www.npmjs.com/package/@webability/playwright) · [`jest`](https://www.npmjs.com/package/@webability/jest) · [`cypress`](https://www.npmjs.com/package/@webability/cypress) | Assert accessibility in your existing tests |
+| [`@webability/react-native`](https://www.npmjs.com/package/@webability/react-native) · [`mobile`](https://www.npmjs.com/package/@webability/mobile) | The same checks on mobile |
+
+### What I'm good at
+
+Taking a vague customer problem, finding the smallest version that is genuinely useful, and having it in production that week. Agent and tool design — deciding what becomes a tool, and writing the description well enough that the model picks the right one. Making software behave in environments I don't own.
+
+**[sidharthnayyar.com](https://sidharthnayyar.com)** · [LinkedIn](https://linkedin.com/in/sidharth-nayyar-a13515171) · sidharth15nayyar@gmail.com
