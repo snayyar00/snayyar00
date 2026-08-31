@@ -4,7 +4,7 @@ Forward deployed engineer. I work with customers directly and ship the productio
 
 **Now** — building [WebAbility.io](https://webability.io), an accessibility platform: an AI widget, a scanning engine, and agents for WCAG 2.2 / ADA / Section 508 / EAA. It runs on **1,697 live sites** for **758 customers**, inside codebases I do not control.
 
-**Before** — Principal Forward Deployed Engineer at Ares, a legal-AI product built on Claude. I was in the room with **25 law firms**, scoping the ask and shipping it that week. Live case volume grew from 128 to ~1,200 over the contract while I owned the agent loop, the evaluation harness, and per-case cost controls.
+**Before** — Principal Forward Deployed Engineer at Ares, legal AI on Anthropic models. I built the agentic core: chat and tool orchestration, a drafting pipeline, a medical-chronology engine that turns 10,000-page record sets into a timeline, citation grounding that binds every extracted fact to its source page, and per-case cost caps. On calls with the firms, shipping their feedback the same week. Case volume went from 128 to roughly 1,200 across 25 firms.
 
 ### Things you can actually run
 
@@ -27,6 +27,6 @@ The rest of the developer surface, all published:
 
 ### What I'm good at
 
-Taking a vague customer problem, finding the smallest version that is genuinely useful, and having it in production that week. Agent and tool design — deciding what becomes a tool, and writing the description well enough that the model picks the right one. Making software behave in environments I don't own.
+Agent and tool design — deciding what becomes a tool, and writing the description well enough that the model picks the right one. Shipping into environments I don't own. Working directly with the people who use the thing.
 
 **[sidharthnayyar.com](https://sidharthnayyar.com)** · [LinkedIn](https://linkedin.com/in/sidharth-nayyar-a13515171) · sidharth15nayyar@gmail.com
