@@ -16,7 +16,7 @@ Case volume went from 128 to roughly 1,200 across 25 law firms while I ran engin
 
 ### AI that ships into code I don't own: [WebAbility.io](https://webability.io) (2023 to present)
 
-My own company. Accessibility for **1,697 live sites** and **758 customers**, running inside React, Vue and AngularJS apps behind other people's CSPs and CDNs.
+My own company. Accessibility for **1,697 live sites** and **758 businesses**, running inside React, Vue and AngularJS apps behind other people's CSPs and CDNs.
 
 - **Screen-reader agents.** An agent walks a page by its accessibility tree and drives real VoiceOver and NVDA on CI runners, recording what a blind user would hear.
 - **Code-level fixes.** The model layer returns the fix itself, in HTML, JSX or CSS.
