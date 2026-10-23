@@ -19,7 +19,7 @@ Case volume went from 128 to roughly 1,200 across 25 law firms while I ran engin
 My own company. Accessibility for **1,697 live sites** and **758 customers**, running inside React, Vue and AngularJS apps behind other people's CSPs and CDNs.
 
 - **Screen-reader agents.** An agent walks a page by its accessibility tree and drives real VoiceOver and NVDA on CI runners, recording what a blind user would hear.
-- **Fixes, not reports.** The model layer returns code-level fixes in HTML, JSX and CSS.
+- **Code-level fixes.** The model layer returns the fix itself, in HTML, JSX or CSS.
 - **Speed.** Cut the widget's first-interaction time from 1,393 ms to 174 ms, because it runs on other companies' pages and counts against their Core Web Vitals.
 - **Tools for coding agents.** [`@webability/mcp`](https://www.npmjs.com/package/@webability/mcp) is a hosted MCP server with 15 tools: scan a URL or HTML, get framework-aware fixes, verify they landed.
 
