@@ -1,6 +1,6 @@
 ## Hi, I'm Sidharth
 
-Forward deployed engineer. I build AI agents on Anthropic models, put them inside other people's products, and stay on the calls until they work for the people using them.
+Forward deployed engineer. I work with the people who use the software, and I ship the production code.
 
 Based in Canada · open to relocating · [sidharthnayyar.com](https://sidharthnayyar.com) · [LinkedIn](https://linkedin.com/in/sidharth-nayyar-a13515171)
 
