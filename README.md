@@ -6,7 +6,7 @@ Based in Canada · open to relocating · [sidharthnayyar.com](https://sidharthna
 
 ### What I build
 
-**Agents that do real work.** At Ares (legal AI, 2025 to 2026) I built the agentic core on Anthropic models: tool orchestration, a drafting pipeline, a medical-chronology engine that turns 10,000-page record sets into a timeline, citation grounding that binds every extracted fact to its source page, and per-case cost caps. I was on calls with the firms and shipped their feedback the same week. Case volume went from 128 to roughly 1,200 across 25 firms.
+**Agents that do real work.** At Ares (legal AI, 2025 to 2026) I built the agentic core: tool orchestration, a drafting pipeline, a medical-chronology engine that turns 10,000-page record sets into a timeline, citation grounding that binds every extracted fact to its source page, and per-case cost caps. I was on calls with the firms and shipped their feedback the same week. Case volume went from 128 to roughly 1,200 across 25 firms.
 
 **AI that ships into codebases I don't own.** [WebAbility.io](https://webability.io) is my own company: an AI widget, a scanning engine and agents for WCAG 2.2, ADA, Section 508 and EAA. It runs on **1,697 live sites** for **758 customers**, inside React, Vue and AngularJS apps behind other people's CSPs and CDNs.
 
@@ -27,7 +27,7 @@ Source: [snayyar00/webability-mcp](https://github.com/snayyar00/webability-mcp).
 
 ### Stack
 
-- **AI:** Anthropic tool use and agentic loops · MCP · retrieval with citation grounding · vision extraction · evals · cost control
+- **AI:** LLM tool use and agentic loops · MCP · retrieval with citation grounding · vision extraction · evals · cost control
 - **Code:** Python · TypeScript · SQL · React · Next.js · Node
 - **Infra:** Cloudflare Workers · AWS · Azure · Docker · GitHub Actions
 
