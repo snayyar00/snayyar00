@@ -10,7 +10,7 @@ Based in Canada · open to relocating · [sidharthnayyar.com](https://sidharthna
 
 **AI that ships into codebases I don't own.** [WebAbility.io](https://webability.io) is my own company: an AI widget, a scanning engine and agents for WCAG 2.2, ADA, Section 508 and EAA. It runs on **1,697 live sites** for **758 customers**, inside React, Vue and AngularJS apps behind other people's CSPs and CDNs.
 
-**Tools for coding agents.** [`@webability/mcp`](https://www.npmjs.com/package/@webability/mcp) is a hosted MCP server with 15 tools for Claude Code, Cursor and Copilot: scan a URL or HTML, get framework-aware fixes, verify they landed.
+**Tools for coding agents.** [`@webability/mcp`](https://www.npmjs.com/package/@webability/mcp) is a hosted MCP server with 15 tools for Cursor, Copilot and other coding agents: scan a URL or HTML, get framework-aware fixes, verify they landed.
 
 [![npm](https://img.shields.io/npm/dm/@webability/mcp?label=%40webability%2Fmcp&color=2a78d6)](https://www.npmjs.com/package/@webability/mcp)
 [![npm](https://img.shields.io/npm/dm/@webability/core?label=%40webability%2Fcore&color=2a78d6)](https://www.npmjs.com/package/@webability/core)
@@ -18,7 +18,7 @@ Based in Canada · open to relocating · [sidharthnayyar.com](https://sidharthna
 [![Smithery](https://img.shields.io/badge/Smithery-live-1baf7a)](https://smithery.ai/servers/webability/accessibility)
 
 ```bash
-claude mcp add webability -- npx @webability/mcp
+npx @webability/mcp
 ```
 
 Source: [snayyar00/webability-mcp](https://github.com/snayyar00/webability-mcp). Also on npm: [`eslint-plugin`](https://www.npmjs.com/package/@webability/eslint-plugin) · [`playwright`](https://www.npmjs.com/package/@webability/playwright) · [`jest`](https://www.npmjs.com/package/@webability/jest) · [`cypress`](https://www.npmjs.com/package/@webability/cypress) · [`react-native`](https://www.npmjs.com/package/@webability/react-native) · [`mobile`](https://www.npmjs.com/package/@webability/mobile)
