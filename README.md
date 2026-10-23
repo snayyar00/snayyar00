@@ -1,14 +1,10 @@
 ## Sidharth Nayyar
 
-Forward deployed engineer. I build AI agents and the evaluation around them, I work with the people who use them, and I ship the production code. Lately that means voice agents, MCP servers, and agentic pipelines on Anthropic models.
+Forward deployed engineer. I build AI agents and the evaluation around them, I work with the people who use them, and I ship the production code. Lately that means agentic pipelines on Anthropic models and MCP servers.
 
 Based in Canada · open to relocating · [sidharthnayyar.com](https://sidharthnayyar.com)
 
 ### Recent work
-
-#### **[callcheck](https://github.com/snayyar00/callcheck)**: onboarding a voice AI customer from their past calls
-
-Takes a company's past support calls and answers four questions: what callers want, what an agent can automate first, what that saves, and how callers' experience looks today, so the improvement after go-live can be measured. Tested on held-out public data: it finds the back-office systems an agent needs with 87% recall, and measures response times within 0.21 s on 90% of turns in real phone calls. The README lists where it still fails.
 
 #### **Legal AI: Ares** (2025 to 2026, contract)
 
