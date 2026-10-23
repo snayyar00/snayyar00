@@ -4,13 +4,24 @@ Forward deployed engineer. I work with the people who use the software, and I sh
 
 Based in Canada · open to relocating · [sidharthnayyar.com](https://sidharthnayyar.com) · [LinkedIn](https://linkedin.com/in/sidharth-nayyar-a13515171)
 
-### What I build
+### AI agents in production: Ares, legal AI (2025 to 2026)
 
-**Agents that do real work.** At Ares (legal AI, 2025 to 2026) I built the agentic core: tool orchestration, a drafting pipeline, a medical-chronology engine that turns 10,000-page record sets into a timeline, citation grounding that binds every extracted fact to its source page, and per-case cost caps. I was on calls with the firms and shipped their feedback the same week. Case volume went from 128 to roughly 1,200 across 25 firms.
+Case volume went from 128 to roughly 1,200 across 25 law firms while I ran engineering, on calls and on site with the firms, shipping their feedback the same week.
 
-**AI that ships into codebases I don't own.** [WebAbility.io](https://webability.io) is my own company: an AI widget, a scanning engine and agents for WCAG 2.2, ADA, Section 508 and EAA. It runs on **1,697 live sites** for **758 customers**, inside React, Vue and AngularJS apps behind other people's CSPs and CDNs.
+- **Agentic core.** Tool orchestration, a drafting pipeline, and a medical-chronology engine that turns record sets of up to 10,000 pages into a timeline a paralegal used to spend days on. Per-case cost caps keep a large file from breaking the price.
+- **Citation grounding.** Every extracted fact is bound to the page it came from, and the agent abstains instead of citing something it cannot find. A lawyer will not file what they cannot verify.
+- **Retrieval.** Moved the retrieval layer across three vector stores, with an A/B harness to compare strategies before switching. Legal research over case law and the web, with grounded citations.
+- **Voice intake agent.** Answers personal-injury firms' inbound calls: a 14-step call flow, rules-based lead scoring in under 500 ms to decide a live transfer, and a suite of 50 simulated callers to test it before it touched a real call.
+- **Enterprise plumbing.** Connectors into SharePoint, NetDocuments, Box and Dropbox that keep each firm's permissions, and a document pipeline that resumes after failure instead of restarting.
 
-**Tools for coding agents.** [`@webability/mcp`](https://www.npmjs.com/package/@webability/mcp) is a hosted MCP server with 15 tools for Cursor, Copilot and other coding agents: scan a URL or HTML, get framework-aware fixes, verify they landed.
+### AI that ships into code I don't own: [WebAbility.io](https://webability.io) (2023 to present)
+
+My own company. Accessibility for **1,697 live sites** and **758 customers**, running inside React, Vue and AngularJS apps behind other people's CSPs and CDNs.
+
+- **Screen-reader agents.** An agent walks a page by its accessibility tree and drives real VoiceOver and NVDA on CI runners, recording what a blind user would hear.
+- **Fixes, not reports.** The model layer returns code-level fixes in HTML, JSX and CSS.
+- **Speed.** Cut the widget's first-interaction time from 1,393 ms to 174 ms, because it runs on other companies' pages and counts against their Core Web Vitals.
+- **Tools for coding agents.** [`@webability/mcp`](https://www.npmjs.com/package/@webability/mcp) is a hosted MCP server with 15 tools: scan a URL or HTML, get framework-aware fixes, verify they landed.
 
 [![npm](https://img.shields.io/npm/dm/@webability/mcp?label=%40webability%2Fmcp&color=2a78d6)](https://www.npmjs.com/package/@webability/mcp)
 [![npm](https://img.shields.io/npm/dm/@webability/core?label=%40webability%2Fcore&color=2a78d6)](https://www.npmjs.com/package/@webability/core)
@@ -21,14 +32,16 @@ Based in Canada · open to relocating · [sidharthnayyar.com](https://sidharthna
 npx @webability/mcp
 ```
 
-Source: [snayyar00/webability-mcp](https://github.com/snayyar00/webability-mcp). Also on npm: [`eslint-plugin`](https://www.npmjs.com/package/@webability/eslint-plugin) · [`playwright`](https://www.npmjs.com/package/@webability/playwright) · [`jest`](https://www.npmjs.com/package/@webability/jest) · [`cypress`](https://www.npmjs.com/package/@webability/cypress) · [`react-native`](https://www.npmjs.com/package/@webability/react-native) · [`mobile`](https://www.npmjs.com/package/@webability/mobile)
+Source: [snayyar00/webability-mcp](https://github.com/snayyar00/webability-mcp)
 
-**Enterprise data, when the agent needs it.** At ICAO (Montreal, 2024 to present) I helped lead a finance and procurement migration to Oracle Fusion Cloud and built the monthly journal pipeline in Python on Azure Synapse, reconciled to the live general ledger.
+### Enterprise data: ICAO (Montreal, 2024 to present)
+
+Helped lead a finance and procurement migration to Oracle Fusion Cloud, and built the monthly journal pipeline in Python on Azure Synapse, reconciled to the live general ledger.
 
 ### Stack
 
-- **AI:** LLM tool use and agentic loops · MCP · retrieval with citation grounding · vision extraction · evals · cost control
-- **Code:** Python · TypeScript · SQL · React · Next.js · Node
-- **Infra:** Cloudflare Workers · AWS · Azure · Docker · GitHub Actions
+- **AI:** agentic loops and tool use · MCP · RAG with citation grounding · voice agents · evals and simulation · cost control
+- **Code:** Python · TypeScript · SQL · React · Next.js · Node · FastAPI
+- **Data and infra:** Postgres · vector search · Cloudflare Workers · AWS · Azure · Docker · GitHub Actions
 
 B.Sc. Computer Science, Simon Fraser University · sidharth15nayyar@gmail.com
