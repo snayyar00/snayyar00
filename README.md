@@ -11,7 +11,7 @@ Case volume went from 128 to roughly 1,200 across 25 law firms while I ran engin
 - **Agentic core.** Tool orchestration, a drafting pipeline, and a medical-chronology engine that turns record sets of up to 10,000 pages into a timeline a paralegal used to spend days on. Per-case cost caps keep a large file from breaking the price.
 - **Citation grounding.** Every extracted fact is bound to the page it came from, and the agent abstains instead of citing something it cannot find. A lawyer will not file what they cannot verify.
 - **Retrieval.** Moved the retrieval layer across three vector stores, with an A/B harness to compare strategies before switching. Legal research over case law and the web, with grounded citations.
-- **Voice intake agent.** Answers personal-injury firms' inbound calls: a 14-step call flow, rules-based lead scoring in under 500 ms to decide a live transfer, and a suite of 50 simulated callers to test it before it touched a real call.
+- **Voice intake agent.** Answers personal-injury firms' inbound calls: a 14-step call flow, rules-based lead scoring in under 500 ms to decide a live transfer, and a suite of 50 simulated callers to test every change in batch.
 - **Enterprise plumbing.** Connectors into SharePoint, NetDocuments, Box and Dropbox that keep each firm's permissions, and a document pipeline that resumes after failure instead of restarting.
 
 ### AI that ships into code I don't own: [WebAbility.io](https://webability.io) (2023 to present)
